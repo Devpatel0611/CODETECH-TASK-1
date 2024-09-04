@@ -1,17 +1,18 @@
-**Name:**Patel Dev Harshadkumar
-**Domain:**Machine Learning
-**Intern ID:**CT8ML1689
-**Batch Duration:**JULY 5TH,2024 to SEPTEMBER 5TH,2024  
+ **Name:** Patel Dev Harshadkumar                                                                                                                                                                                            
+ **Comapnay:** CODETECH IT SOLUTION                                                                                                                                                                                          
+**Domain:** Machine Learning                                                                                                                                                                                                 
+**Intern ID:** CT8ML1689                                                                                                                                                                                                     
+**Batch Duration:** JULY 5TH,2024 to SEPTEMBER 5TH,2024  
 
 
-##Overview of the Project
+## Overview of the Project
 
-##Project:Linear Regression for House Price Prediction
+## **Project:** Linear Regression for House Price Prediction
 
-##Objective
+## Objective
 The objective of the house price prediction project using linear regression is to collect and preprocess relevant data, select key features, and build a predictive model that accurately estimates house prices. The model will be evaluated using metrics like Mean Absolute Error (MAE) and R-squared, with optimization techniques applied to enhance performance. Key insights from the model's coefficients will be analyzed to understand the impact of various features on pricing.
 
-##Key Activities
+## Key Activities
 Here are the key activities for a house price prediction project using linear regression:
 
 ### 1. **Data Collection:**
@@ -41,7 +42,7 @@ Here are the key activities for a house price prediction project using linear re
    - **Analyze Coefficients:** Interpret the model’s coefficients to understand the impact of each feature on house prices.
    - **Generate Insights:** Identify key factors influencing house prices and provide actionable insights based on the model's results.
 
-##Technologies Used
+## Technologies Used
   - **Python:** The primary programming language for data analysis, model development, and deployment due to its rich ecosystem of libraries.
   - **Pandas:** For data manipulation, cleaning, and preprocessing tasks like handling missing values and transforming data.
   - **NumPy:** For numerical operations and handling large arrays of data efficiently.
